@@ -14,13 +14,13 @@ table {
 	font-family: 'Arial', sans-serif:
 	color: black;
 	background: black;
-	margin: 30px auto;
+	margin: 80px auto;
 	padding: 0px;
 }
 
 th {
 	color: rgb(255, 255, 0);
-	font-size: 20px
+	font-size: 40px
 	text-align: center;
 	margin-top: 50px;
 	padding: 10px;
@@ -29,7 +29,7 @@ th {
 
 td {
 	color: white;
-	font-size: 15px;
+	font-size: 20px;
 	text-align: center;
 	padding: 15px;
 	border: 3px solid rgb(0, 0, 255);
